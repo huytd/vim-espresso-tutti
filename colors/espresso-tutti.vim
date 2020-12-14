@@ -47,3 +47,9 @@ highlight CocRustTypeHint           guifg=#a1a1a1
 
 highlight htmlHead                                guibg=#ffffff
 highlight javaScript                guifg=#434343 guibg=#ffffff
+
+highlight NERDTreeDir               guifg=#000000 guibg=NONE
+highlight NERDTreeFile              guifg=#555555 guibg=NONE
+highlight NERDTreeLink              guifg=#888888 guibg=NONE
+highlight link NERDTreeLinkDir NERDTreeLink
+highlight link NERDTreeLinkFile NERDTreeLink
